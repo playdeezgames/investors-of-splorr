@@ -1,0 +1,15 @@
+CC0 art used by Investors of SPLORR!! (recorded November 21, 2026)
+
+Both packs are by VEXED (v3x3d) and dedicated to the public domain under CC0 1.0
+(https://creativecommons.org/publicdomain/zero/1.0/). The packs ship no licence file; their
+itch.io pages state the terms: free to use, including commercially, and to modify. Credit is not
+required; this game gives it anyway. Both pages say no generative AI was used.
+
+  Bit Bonanza (v5.0)      https://v3x3d.itch.io/bit-bonanza
+    src/People.png, src/Creatures.png, src/UI.png, src/Gems-Jewels-and-Money.png
+    (1-Bit/no-background edition, unmodified copies)
+  Bountiful Bits (v3.2)   https://v3x3d.itch.io/bountiful-bits
+    src/Civilized-no-bg.png (1-Bit/no-background edition, unmodified copy)
+
+sprites_16x16.png and shop_32x32.png are built from these by tools/make_cc0_art.py
+(tiles placed in 16 px cells; the wall's brick pattern repeated to fill its cell).
